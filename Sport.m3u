@@ -1,0 +1,126 @@
+#EXTM3U
+
+# ==================== FHD 1080p (مجلد جاهز للمستقبل) ====================
+#EXTINF:-1 group-title="FHD 1080p", DAZN 1 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", DAZN 2 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", DAZN 3 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", DAZN 4 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", DAZN 5 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 1 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 2 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 2 (Yallashoot)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 3 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 4 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 5 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 6 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="FHD 1080p", beIN Sports 7 (Reelpush)
+http://empty_place_holder
+
+# ==================== HD 720p (مجلد جاهز للمستقبل) ====================
+#EXTINF:-1 group-title="HD 720p", DAZN 1 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", DAZN 2 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", DAZN 3 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", DAZN 4 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", DAZN 5 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 1 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 2 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 2 (Yallashoot)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 3 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 4 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 5 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 6 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="HD 720p", beIN Sports 7 (Reelpush)
+http://empty_place_holder
+
+# ==================== SD 480p (جميع روابطك الحالية هنا) ====================
+#EXTINF:-1 group-title="SD 480p", DAZN 1 (DAZN)
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+
+#EXTINF:-1 group-title="SD 480p", DAZN 2 (DAZN)
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+
+#EXTINF:-1 group-title="SD 480p", DAZN 3 (DAZN)
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+
+#EXTINF:-1 group-title="SD 480p", DAZN 4 (DAZN)
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+
+#EXTINF:-1 group-title="SD 480p", DAZN 5 (DAZN)
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 1 (Reelpush)
+http://h42.reelpush.online/live/918454578001/index.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 2 (Reelpush)
+http://h42.reelpush.online/live/69854211/index.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 2 (Yallashoot)
+http://nruiaaaaaaa.yallaliveshoot.info/hls/ch2/live/index.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 3 (Reelpush)
+http://h42.reelpush.online/live/645587700/index.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 4 (Reelpush)
+http://h42.reelpush.online/live/9787488847/index.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 5 (Reelpush)
+http://h42.reelpush.online/live/610303030/index.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 6 (Reelpush)
+http://h42.reelpush.online/live/1515000000/index.m3u8
+
+#EXTINF:-1 group-title="SD 480p", beIN Sports 7 (Reelpush)
+http://h42.reelpush.online/live/33523510/index.m3u8
+
+# ==================== LQ 360p (مجلد جاهز للمستقبل) ====================
+#EXTINF:-1 group-title="LQ 360p", DAZN 1 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", DAZN 2 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", DAZN 3 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", DAZN 4 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", DAZN 5 (DAZN)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 1 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 2 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 2 (Yallashoot)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 3 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 4 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 5 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 6 (Reelpush)
+http://empty_place_holder
+#EXTINF:-1 group-title="LQ 360p", beIN Sports 7 (Reelpush)
+http://empty_place_holder
+
